@@ -2,7 +2,7 @@
 - 👀 I’m interested in arduino , IOT , machine learning
 - 🌱 I’m currently learning automation and industrial computing
 - 💞️ I’m looking to collaborate on robotic projects
-- 📫 How to reach me tahanejma@ieee.org
+- 📫 How to reach me njmkali219@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
